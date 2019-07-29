@@ -4,6 +4,7 @@ Find fequency of your list.
     </ul>
 
 <h3>Source Code</h3>
+
 ```lst = ['apple','graphes','nemo','apple','graphes','nemo','apple','graphes','nemo']
 
 def freq():
