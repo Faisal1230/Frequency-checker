@@ -18,3 +18,7 @@ def freq():
 
 new = freq()
 print(new)```
+
+<h3>Output</h3>
+
+{'apple': 3, 'graphes': 3, 'nemo': 3}
