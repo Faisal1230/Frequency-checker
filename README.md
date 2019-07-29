@@ -2,7 +2,7 @@
 ## Find fequency of your list.
 
 ###Code
-'''lst = ['apple','graphes','nemo','apple','graphes','nemo','apple','graphes','nemo']
+```lst = ['apple','graphes','nemo','apple','graphes','nemo','apple','graphes','nemo']
 
 def freq():
     frequency = {}
@@ -14,4 +14,4 @@ def freq():
     return frequency
 
 new = freq()
-print(new)'''
+print(new)```
