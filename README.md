@@ -1,5 +1,7 @@
 # Frequency-checker
-## Find fequency of your list.
+<ul>
+Find fequency of your list.
+    </ul>
 
 ###Code
 ```lst = ['apple','graphes','nemo','apple','graphes','nemo','apple','graphes','nemo']
