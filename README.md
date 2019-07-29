@@ -2,6 +2,7 @@
 <ul>
 Find fequency of your list.
     </ul>
+<p>lst = ['apple','graphes','nemo','apple','graphes','nemo','apple','graphes','nemo']</p>
 
 <h3>Source Code</h3>
 
